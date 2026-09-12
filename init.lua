@@ -264,7 +264,6 @@ require("lazy").setup({
 	require("themes.oxocarbon"),
 
 	-- Misc
-	require("plugins.agentic"),
 	require("plugins.leetcode"),
 	require("plugins.snow"),
 	require("plugins.wakatime"),

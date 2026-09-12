@@ -7,7 +7,7 @@ return {
 	},
 	init = function()
 		require("which-key").add({
-			{ "<leader>a", group = "[A]gentic/y[A]zi" },
+			{ "<leader>a", group = "y[A]zi" },
 			{ "<leader>a_", hidden = true },
 			{ "<leader>b", group = "[B]arbar" },
 			{ "<leader>b_", hidden = true },
@@ -17,7 +17,7 @@ return {
 			{ "<leader>d_", hidden = true },
 			{ "<leader>n", group = "[N]eogit/[N]eogen" },
 			{ "<leader>n_", hidden = true },
-			{ "<leader>j", group = "[J]ujutsu/[Just]" },
+			{ "<leader>j", group = "[J]ujutsu/[J]ust" },
 			{ "<leader>j_", hidden = true },
 			{ "<leader>p", group = "[P]eek" },
 			{ "<leader>p_", hidden = true },

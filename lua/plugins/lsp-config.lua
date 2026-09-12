@@ -94,7 +94,6 @@ return {
 				"powershell_es",
 				"stylua",
 				"terraformls",
-				"ty",
 				"vue_ls",
 			},
 		})
